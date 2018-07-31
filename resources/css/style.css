@@ -146,9 +146,7 @@ header {
 
 .tab:hover {
   background-color:#1b334f;
-  transform: scale(1.1);
   border: none;
-  box-shadow: 0 1px 20px;
 }
 
 .tab:hover h4, .tab:hover span, .tab:hover a{
@@ -399,7 +397,7 @@ button:hover {
 footer {
   display: flex;
   justify-content: space-between;
-  
+
   align-items: center;
   background-color:#4d6a96;
   margin: 0 auto;
